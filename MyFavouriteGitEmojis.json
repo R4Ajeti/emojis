@@ -1,0 +1,332 @@
+[
+    {
+        "Emoji": ": art:",
+        "Code": "`:art:`",
+        "Comment": "`Improving structure / format of the code.`"
+    },
+    {
+        "Emoji": ": zap:",
+        "Code": "`:zap:`",
+        "Comment": "`Improving performance.`"
+    },
+    {
+        "Emoji": ": fire:",
+        "Code": "`:fire:`",
+        "Comment": "`Removing code or files.`"
+    },
+    {
+        "Emoji": ": bug:",
+        "Code": "`:bug:`",
+        "Comment": "`Fixing a bug.`"
+    },
+    {
+        "Emoji": ": ambulance:",
+        "Code": "`:ambulance:`",
+        "Comment": "`Critical hotfix.`"
+    },
+    {
+        "Emoji": ": sparkles:",
+        "Code": "`:sparkles:`",
+        "Comment": "`Introducing new features.`"
+    },
+    {
+        "Emoji": ": pencil:",
+        "Code": "`:pencil:`",
+        "Comment": "`Writing docs.`"
+    },
+    {
+        "Emoji": ": rocket:",
+        "Code": "`:rocket:`",
+        "Comment": "`Deploying stuff.`"
+    },
+    {
+        "Emoji": ": lipstick:",
+        "Code": "`:lipstick:`",
+        "Comment": "`Updating the UI and style files.`"
+    },
+    {
+        "Emoji": ": tada:",
+        "Code": "`:tada:`",
+        "Comment": "`Initial commit.`"
+    },
+    {
+        "Emoji": ": white_check_mark:",
+        "Code": "`:white_check_mark:`",
+        "Comment": "`Updating tests.`"
+    },
+    {
+        "Emoji": ": lock:",
+        "Code": "`:lock:`",
+        "Comment": "`Fixing security issues.`"
+    },
+    {
+        "Emoji": ": apple:",
+        "Code": "`:apple:`",
+        "Comment": "`Fixing something on macOS.`"
+    },
+    {
+        "Emoji": ": penguin:",
+        "Code": "`:penguin:`",
+        "Comment": "`Fixing something on Linux.`"
+    },
+    {
+        "Emoji": ": checkered_flag:",
+        "Code": "`:checkered_flag:`",
+        "Comment": "`Fixing something on Windows.`"
+    },
+    {
+        "Emoji": ": robot:",
+        "Code": "`:robot:`",
+        "Comment": "`Fixing something on Android.`"
+    },
+    {
+        "Emoji": ": green_apple:",
+        "Code": "`:green_apple:`",
+        "Comment": "`Fixing something on iOS.`"
+    },
+    {
+        "Emoji": ": bookmark:",
+        "Code": "`:bookmark:`",
+        "Comment": "`Releasing / Version tags.`"
+    },
+    {
+        "Emoji": ": rotating_light:",
+        "Code": "`:rotating_light:`",
+        "Comment": "`Removing linter warnings.`"
+    },
+    {
+        "Emoji": ": construction:",
+        "Code": "`:construction:`",
+        "Comment": "`Work in progress.`"
+    },
+    {
+        "Emoji": ": green_heart:",
+        "Code": "`:green_heart:`",
+        "Comment": "`Fixing CI Build.`"
+    },
+    {
+        "Emoji": ": arrow_down:",
+        "Code": "`:arrow_down:`",
+        "Comment": "`Downgrading dependencies.`"
+    },
+    {
+        "Emoji": ": arrow_up:",
+        "Code": "`:arrow_up:`",
+        "Comment": "`Upgrading dependencies.`"
+    },
+    {
+        "Emoji": ": pushpin:",
+        "Code": "`:pushpin:`",
+        "Comment": "`Pinning dependencies to specific versions.`"
+    },
+    {
+        "Emoji": ": construction_worker:",
+        "Code": "`:construction_worker:`",
+        "Comment": "`Adding CI build system.`"
+    },
+    {
+        "Emoji": ": chart_with_upwards_trend:",
+        "Code": "`:chart_with_upwards_trend:`",
+        "Comment": "`Adding analytics or tracking code.`"
+    },
+    {
+        "Emoji": ": recycle:",
+        "Code": "`:recycle:`",
+        "Comment": "`Refactoring code.`"
+    },
+    {
+        "Emoji": ": whale:",
+        "Code": "`:whale:`",
+        "Comment": "`Work about Docker.`"
+    },
+    {
+        "Emoji": ": heavy_plus_sign:",
+        "Code": "`:heavy_plus_sign:`",
+        "Comment": "`Adding a dependency.`"
+    },
+    {
+        "Emoji": ": heavy_minus_sign:",
+        "Code": "`:heavy_minus_sign:`",
+        "Comment": "`Removing a dependency.`"
+    },
+    {
+        "Emoji": ": wrench:",
+        "Code": "`:wrench:`",
+        "Comment": "`Changing configuration files.`"
+    },
+    {
+        "Emoji": ": globe_with_meridians:",
+        "Code": "`:globe_with_meridians:`",
+        "Comment": "`Internationalization and localization.`"
+    },
+    {
+        "Emoji": ": pencil2:",
+        "Code": "`:pencil2:`",
+        "Comment": "`Fixing typos.`"
+    },
+    {
+        "Emoji": ": poop:",
+        "Code": "`:poop:`",
+        "Comment": "`Writing bad code that needs to be improved.`"
+    },
+    {
+        "Emoji": ": rewind:",
+        "Code": "`:rewind:`",
+        "Comment": "`Reverting changes.`"
+    },
+    {
+        "Emoji": ": twisted_rightwards_arrows:",
+        "Code": "`:twisted_rightwards_arrows:`",
+        "Comment": "`Merging branches.`"
+    },
+    {
+        "Emoji": ": package:",
+        "Code": "`:package:`",
+        "Comment": "`Updating compiled files or packages.`"
+    },
+    {
+        "Emoji": ": alien:",
+        "Code": "`:alien:`",
+        "Comment": "`Updating code due to external API changes.`"
+    },
+    {
+        "Emoji": ": truck:",
+        "Code": "`:truck:`",
+        "Comment": "`Moving or renaming files.`"
+    },
+    {
+        "Emoji": ": page_facing_up:",
+        "Code": "`:page_facing_up:`",
+        "Comment": "`Adding or updating license.`"
+    },
+    {
+        "Emoji": ": boom:",
+        "Code": "`:boom:`",
+        "Comment": "`Introducing breaking changes.`"
+    },
+    {
+        "Emoji": ": bento:",
+        "Code": "`:bento:`",
+        "Comment": "`Adding or updating assets.`"
+    },
+    {
+        "Emoji": ": ok_hand:",
+        "Code": "`:ok_hand:`",
+        "Comment": "`Updating code due to code review changes.`"
+    },
+    {
+        "Emoji": ": wheelchair:",
+        "Code": "`:wheelchair:`",
+        "Comment": "`Improving accessibility.`"
+    },
+    {
+        "Emoji": ": bulb:",
+        "Code": "`:bulb:`",
+        "Comment": "`Documenting source code.`"
+    },
+    {
+        "Emoji": ": beers:",
+        "Code": "`:beers:`",
+        "Comment": "`Writing code drunkenly.`"
+    },
+    {
+        "Emoji": ": speech_balloon:",
+        "Code": "`:speech_balloon:`",
+        "Comment": "`Updating text and literals.`"
+    },
+    {
+        "Emoji": ": card_file_box:",
+        "Code": "`:card_file_box:`",
+        "Comment": "`Performing database related changes.`"
+    },
+    {
+        "Emoji": ": loud_sound:",
+        "Code": "`:loud_sound:`",
+        "Comment": "`Adding logs.`"
+    },
+    {
+        "Emoji": ": mute:",
+        "Code": "`:mute:`",
+        "Comment": "`Removing logs.`"
+    },
+    {
+        "Emoji": ": busts_in_silhouette:",
+        "Code": "`:busts_in_silhouette:`",
+        "Comment": "`Adding contributor(s).`"
+    },
+    {
+        "Emoji": ": children_crossing:",
+        "Code": "`:children_crossing:`",
+        "Comment": "`Improving user experience / usability.`"
+    },
+    {
+        "Emoji": ": building_construction:",
+        "Code": "`:building_construction:`",
+        "Comment": "`Making architectural changes.`"
+    },
+    {
+        "Emoji": ": iphone:",
+        "Code": "`:iphone:`",
+        "Comment": "`Working on responsive design.`"
+    },
+    {
+        "Emoji": ": clown_face:",
+        "Code": "`:clown_face:`",
+        "Comment": "`Mocking things.`"
+    },
+    {
+        "Emoji": ": egg:",
+        "Code": "`:egg:`",
+        "Comment": "`Adding an easter egg.`"
+    },
+    {
+        "Emoji": ": see_no_evil:",
+        "Code": "`:see_no_evil:`",
+        "Comment": "`Adding or updating a .gitignore file`"
+    },
+    {
+        "Emoji": ": camera_flash:",
+        "Code": "`:camera_flash:`",
+        "Comment": "`Adding or updating snapshots`"
+    },
+    {
+        "Emoji": ": alembic:",
+        "Code": "`:alembic:`",
+        "Comment": "`Experimenting new things`"
+    },
+    {
+        "Emoji": ": mag:",
+        "Code": "`:mag:`",
+        "Comment": "`Improving SEO`"
+    },
+    {
+        "Emoji": ": wheel_of_dharma:",
+        "Code": "`:wheel_of_dharma:`",
+        "Comment": "`Work about Kubernetes`"
+    },
+    {
+        "Emoji": ": label:",
+        "Code": "`:label:`",
+        "Comment": "`Adding or updating types (Flow, TypeScript)`"
+    },
+    {
+        "Emoji": ": seedling:",
+        "Code": "`:seedling:`",
+        "Comment": "`Adding or updating seed files`"
+    },
+    {
+        "Emoji": ": triangular_flag_on_post:",
+        "Code": "`:triangular_flag_on_post:`",
+        "Comment": "`Adding, updating, or removing feature flags`"
+    },
+    {
+        "Emoji": ": goal_net:",
+        "Code": "`:goal_net:`",
+        "Comment": "`Catching errors`"
+    },
+    {
+        "Emoji": ": dizzy:",
+        "Code": "`:dizzy:`",
+        "Comment": "`Adding or updating animations and transitions`"
+    }
+]
